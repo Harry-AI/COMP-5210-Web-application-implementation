@@ -1,0 +1,32 @@
+[
+	{
+		"item":"SCP-1020",
+		"objectClass":"Euclid",
+		"scp":"All components of SCP-1020 are to be kept in a storage locker at Sector █. The interior of the locker should be monitored by remote video feed at all times. A United States Postmaster General-approved mailbox is to be maintained along an active United States Postal Service pick-up and delivery route at the closest point possible to Sector █, currently [DATA EXPUNGED]. This mailbox is to be emptied following every active state of SCP-1020, and the resulting letter read and destroyed unless any details in the letter bear further investigation.",
+		"description":"SCP-1020 consists of the following items: A stack of 11 newspapers, a pair of scissors, a jar of rubber cement-style adhesive, a sheaf of 30 sheets of blank white paper, a box of 30 plain letter-sized envelopes, a black ballpoint pen, and a book of 20 stamps"
+	},
+	{
+		"item":"SCP-1021",
+		"objectClass":"Safe",
+		"scp":" No special containment procedures needed at this time. All instances of SCP-1021 are currently in use in various sites and facilities. For complete list, see addendum.",
+		"description":"SCP-1021 is a set of 7 EXIT signs designed in Art Moderne dating back to the 1940's. The anomalous effect of SCP-1021 will only manifest if it is placed directly over a door made of solid wood; type and design may vary, but the door must be solid with no trappings (ex. windows). Any person opening a door with SCP-1021 over it will find themselves exiting out of a corresponding exit of the ███████ Cinema in █████, MI. Each sign of SCP-1021 belongs to a specific door in the cinema, with the main entrance being the only door without a connection."
+	},
+	{
+		"item":"SCP-1022",
+		"objectClass":"Safe",
+		"scp":"SCP-1022 may be contained on a clothes rack within a standard secure item locker. Warning labels are to be affixed to prevent confusion with similar attire in use by Foundation personnel. Completion of a comprehensive psychiatric evaluation and the mandatory SCP-1022 orientation course is required for staff who wish to utilise SCP-1022. After the events of Incident 1022-1, use of SCP-1022 is restricted to D-class barring approval by Level 4 personnel.",
+		"description":"SCP-1022 is a white cotton-polyester laboratory coat in Size M. It has no identifying markings save for a printed label on the inside collar reading 'Dr. E████', its original owner. All surfaces of SCP-1022 are resistant to microbial colonisation; introduced microorganisms fail to reproduce and subsequently die. It thus remains sterile save in the immediate period after contact with a colonised surface.1 The physical properties of SCP-1022 are otherwise unremarkable."
+	},
+	{
+		"item":"SCP-1023",
+		"objectClass":"Safe",
+		"scp":"SCP-1023 is to be kept within a 1m x 1m x 1m lead-lined steel box to be stored at Research Sector 4 at Site 17 at all times when it is not being tested or studied. SCP-1023 is to be kept under audio and video surveillance at all times during containment and testing, and Senior Researcher ██████ is to be notified at any time the object becomes active. All data the object produces is to be recorded both digitally and physically and stored within a secure vault on-site. If any data the object produces is of risk to the Foundation, it is to be forwarded as soon as possible to the nearest Site Administrator.",
+		"description":"SCP-1023 is a seismograph of unknown make and manufacture, procured by Agent ████ during a raid on a Marshall, Carter & Dark Ltd. warehouse in [REDACTED]. The object appears to be composed of an unknown material which resembles glass, but contains traces of elements not normally occurring on Earth."
+	},
+	{
+		"item":"SCP-1024",
+		"objectClass":"Safe",
+		"scp":" SCP-1024 is kept in a secure locker at Reliquary Containment Site-76, under standard Level 3 Bibliomorphic Containment Conditions. Access to SCP-1024 is prohibited without level 3 authorization. Personnel assigned to researching SCP-1024 have standing authorization for access, but must inform their Project Leader before accessing SCP-1024 and must log all activity related to its use.",
+		"description":"SCP-1024 is a modified Dungeons and Dragons Basic boxed set, published ca. 1981, in nearly new condition, consisting of a rulebook, a module (a pre-printed adventure), a catalog, a set of dice, and a crayon. Although SCP-1024 superficially resembles a standard box set sold at the time, the rulebook and module have had their pages removed and replaced with sheets of vellum and bound using platinum staples. The pages are filled with diagrams and text written in Classical Latin using red ink, and the books smell faintly of sulfur. Together, the two books provide basic information with which one can, with sufficient study and practice, invoke a variety of low-power anomalous effects."
+	}
+]
